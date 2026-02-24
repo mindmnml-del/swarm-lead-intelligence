@@ -3542,3 +3542,92 @@
 {"level":"info","message":"🔍 Deep crawling: http://www.belgasorozo.com/...","timestamp":"2026-02-23T10:09:00.868Z"}
 {"level":"info","message":"📧 Found 1 emails for Belgian Brasserie Henri","timestamp":"2026-02-23T10:09:31.334Z"}
 {"level":"info","message":"🏁 Job 655b96d2-e46b-4c9b-86f6-49bf6aeed4c1 Completed. Added: 2, Skipped: 18","timestamp":"2026-02-23T10:09:31.351Z"}
+{"clientVersion":"5.22.0","errorCode":"P1001","level":"error","message":"❌ Fatal Error: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.","name":"PrismaClientInitializationError","stack":"PrismaClientInitializationError: Can't reach database server at `localhost:5432`\n\nPlease make sure your database server is running at `localhost:5432`.\n    at t (D:\\LEADS2\\swarm-lead-scraper\\node_modules\\@prisma\\client\\runtime\\library.js:112:2488)\n    at async connectDB (D:\\LEADS2\\swarm-lead-scraper\\src\\db\\company.ts:135:5)\n    at async main (D:\\LEADS2\\swarm-lead-scraper\\src\\index.ts:24:9)","timestamp":"2026-02-24T06:56:36.439Z"}
+{"level":"info","message":"🔌 Connected to DB","timestamp":"2026-02-24T06:57:32.581Z"}
+{"level":"info","message":"🚀 Starting in Service Mode (--serve)...","timestamp":"2026-02-24T06:57:32.586Z"}
+{"level":"info","message":"🚀 Processing Job: dentists in ausburg (b0942c14-bafd-413c-83d0-a3aac4ebd3ba) for User: user_39ngUXatmJLpOmAMTchFOsYCpPc","timestamp":"2026-02-24T06:59:13.276Z"}
+{"level":"info","message":"🌐 Shared StealthBrowser initialized for job.","timestamp":"2026-02-24T06:59:14.242Z"}
+{"level":"info","message":"🔍 Searching: https://www.google.com/maps/search/dentists+in+ausburg?hl=en","timestamp":"2026-02-24T06:59:14.400Z"}
+{"level":"info","message":"📜 Starting to collect result links...","timestamp":"2026-02-24T06:59:16.516Z"}
+{"level":"info","message":"🔄 Scrolling... Current links: 20 (attempt 1/30)","timestamp":"2026-02-24T06:59:19.637Z"}
+{"level":"info","message":"🎯 Reached max results limit.","timestamp":"2026-02-24T06:59:19.638Z"}
+{"level":"info","message":"✅ Collected 20 unique links.","timestamp":"2026-02-24T06:59:19.641Z"}
+{"level":"info","message":"📋 Found 20 leads. Extracting...","timestamp":"2026-02-24T06:59:19.649Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahnarzt+Augsburg+-+Dental21/data=!4m7!3m6!1s0x479ebdeba9e033f1:0x70553677e3574077!8m2!3d48.370066!4d10.8967636!16s%2Fg%2F11pqpltdsd!19sChIJ8TPgqeu9nkcRd0BX43c2VXA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T06:59:19.650Z"}
+{"level":"info","message":"✅ Added: Zahnarzt Augsburg - Dental21","timestamp":"2026-02-24T06:59:21.449Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.dental21-augsburg.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google...","timestamp":"2026-02-24T06:59:21.450Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AllDent+Zahnzentrum+Augsburg/data=!4m7!3m6!1s0x479ebdbb0c920651:0x405ef1bb8206202d!8m2!3d48.367067!4d10.8859753!16s%2Fg%2F11fmfzccnm!19sChIJUQaSDLu9nkcRLSAGgrvxXkA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T06:59:30.628Z"}
+{"level":"info","message":"✅ Added: AllDent Zahnzentrum Augsburg","timestamp":"2026-02-24T06:59:33.518Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.alldent-zahnzentrum-augsburg.de/...","timestamp":"2026-02-24T06:59:33.519Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahnarzt+Augsburg+-+Dein+Dental/data=!4m7!3m6!1s0x479ebdcc135ee851:0x53b716730bc807c!8m2!3d48.3633872!4d10.8930221!16s%2Fg%2F11fqs_7366!19sChIJUeheE8y9nkcRfIC8MGdxOwU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T06:59:40.175Z"}
+{"level":"info","message":"✅ Added: Zahnarzt Augsburg - Dein Dental","timestamp":"2026-02-24T06:59:41.596Z"}
+{"level":"info","message":"🔍 Deep crawling: https://dein-dental-augsburg.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing...","timestamp":"2026-02-24T06:59:41.598Z"}
+{"level":"info","message":"📧 Found 2 emails for Zahnarzt Augsburg - Dein Dental","timestamp":"2026-02-24T06:59:49.696Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahnarztpraxis+St.+Sofia+%7C+Zahnarzt+Augsburg/data=!4m7!3m6!1s0x479ebd510d91824b:0x15d1015f3e965db6!8m2!3d48.3694632!4d10.8965188!16s%2Fg%2F11c6q8w767!19sChIJS4KRDVG9nkcRtl2WPl8B0RU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T06:59:49.703Z"}
+{"level":"info","message":"✅ Added: Zahnarztpraxis St. Sofia | Zahnarzt Augsburg","timestamp":"2026-02-24T06:59:50.867Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.zahnarztpraxis-st-sofia.de/?utm_source=gbp...","timestamp":"2026-02-24T06:59:50.867Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/AMEDIS+Ihre+Zahn%C3%A4rzte+und+Kieferchirurgen/data=!4m7!3m6!1s0x4109128c4a15a83b:0xae80c91e27b33b1f!8m2!3d48.3661027!4d10.905255!16s%2Fg%2F1tksgstn!19sChIJO6gVSowSCUERHzuzJx7JgK4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T06:59:55.765Z"}
+{"level":"info","message":"✅ Added: AMEDIS Ihre Zahnärzte und Kieferchirurgen","timestamp":"2026-02-24T06:59:56.923Z"}
+{"level":"info","message":"🔍 Deep crawling: https://amedis-augsburg.de/kontakt...","timestamp":"2026-02-24T06:59:56.924Z"}
+{"level":"info","message":"📧 Found 2 emails for AMEDIS Ihre Zahnärzte und Kieferchirurgen","timestamp":"2026-02-24T07:00:01.453Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahnarztpraxis+am+Zeugplatz+-+Zahnarzt+Augsburg/data=!4m7!3m6!1s0x479ebd539b7ba213:0xc26a6dbdc05728d2!8m2!3d48.36583!4d10.89657!16s%2Fg%2F1tffhs37!19sChIJE6J7m1O9nkcR0ihXwL1tasI?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:00:01.459Z"}
+{"level":"info","message":"✅ Added: Zahnarztpraxis am Zeugplatz - Zahnarzt Augsburg","timestamp":"2026-02-24T07:00:02.716Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.zahnarztpraxis-zeugplatz.de/?utm_source=gmb&utm_medium=organic...","timestamp":"2026-02-24T07:00:02.717Z"}
+{"level":"info","message":"📧 Found 1 emails for Zahnarztpraxis am Zeugplatz - Zahnarzt Augsburg","timestamp":"2026-02-24T07:00:11.098Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/team+Dentalis+-+Center+for+Innovative+Dentistry/data=!4m7!3m6!1s0x479e97e0c5c48fb7:0x80e558382ba80716!8m2!3d48.3612735!4d10.9138338!16s%2Fg%2F1vnrplxz!19sChIJt4_ExeCXnkcRFgeoKzhY5YA?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:00:11.105Z"}
+{"level":"info","message":"✅ Added: team Dentalis - Center for Innovative Dentistry","timestamp":"2026-02-24T07:00:13.199Z"}
+{"level":"info","message":"🔍 Deep crawling: https://team-dentalis.de/...","timestamp":"2026-02-24T07:00:13.202Z"}
+{"level":"info","message":"📧 Found 1 emails for team Dentalis - Center for Innovative Dentistry","timestamp":"2026-02-24T07:00:25.072Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahn%C3%A4rzte+am+K%C3%B6nigsplatz+-+Spezialist+f%C3%BCr+Implantologie+und+%C3%84sthetik/data=!4m7!3m6!1s0x479ebde5fd0b7203:0x2d7a39babdf36d58!8m2!3d48.3667051!4d10.8921792!16s%2Fg%2F11vwwlmz7n!19sChIJA3IL_eW9nkcRWG3zvbo5ei0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:00:25.080Z"}
+{"level":"info","message":"✅ Added: Zahnärzte am Königsplatz - Spezialist für Implantologie und Ästhetik","timestamp":"2026-02-24T07:00:26.545Z"}
+{"level":"info","message":"🔍 Deep crawling: https://zahnaerzte-koenigsplatz.de/...","timestamp":"2026-02-24T07:00:26.547Z"}
+{"level":"info","message":"📧 Found 2 emails for Zahnärzte am Königsplatz - Spezialist für Implantologie und Ästhetik","timestamp":"2026-02-24T07:00:33.407Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/ZAHNMEDIZIN+am+K%C3%B6nigsplatz/data=!4m7!3m6!1s0x479ebd53af404413:0x1bc1bba72b87658a!8m2!3d48.36598!4d10.89511!16s%2Fg%2F1tgpm03r!19sChIJE0RAr1O9nkcRimWHK6e7wRs?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:00:33.413Z"}
+{"level":"info","message":"✅ Added: ZAHNMEDIZIN am Königsplatz","timestamp":"2026-02-24T07:00:34.555Z"}
+{"level":"info","message":"🔍 Deep crawling: https://aux-dent.de/...","timestamp":"2026-02-24T07:00:34.556Z"}
+{"level":"info","message":"📧 Found 3 emails for ZAHNMEDIZIN am Königsplatz","timestamp":"2026-02-24T07:00:41.734Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dental+practice+Renato+Illes/data=!4m7!3m6!1s0x479ebd13f5d666db:0xb104d4c9b5b42117!8m2!3d48.3896786!4d10.8824826!16s%2Fg%2F1tncrx4v!19sChIJ22bW9RO9nkcRFyG0tcnUBLE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:00:41.740Z"}
+{"level":"info","message":"✅ Added: Dental practice Renato Illes","timestamp":"2026-02-24T07:00:43.047Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.zahnarzt-augsburg-oberhausen.de/...","timestamp":"2026-02-24T07:00:43.047Z"}
+{"level":"info","message":"📧 Found 2 emails for Dental practice Renato Illes","timestamp":"2026-02-24T07:00:49.507Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/STUDIO+DENTICS+Zahnarzt+Augsburg-Hochzoll+-+Ioana+Vasu/data=!4m7!3m6!1s0x479e9963c5c623b9:0x1ab7bcc9f00739ff!8m2!3d48.35363!4d10.9453001!16s%2Fg%2F11tnhsfv67!19sChIJuSPGxWOZnkcR_zkH8Mm8txo?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:00:49.513Z"}
+{"level":"info","message":"✅ Added: STUDIO DENTICS Zahnarzt Augsburg-Hochzoll - Ioana Vasu","timestamp":"2026-02-24T07:00:50.808Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.studio-dentics.de/...","timestamp":"2026-02-24T07:00:50.810Z"}
+{"level":"info","message":"📧 Found 2 emails for STUDIO DENTICS Zahnarzt Augsburg-Hochzoll - Ioana Vasu","timestamp":"2026-02-24T07:00:56.972Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahn%C3%A4rzte+am+Diako+Augsburg+-+Schneid+%26+Kollegen/data=!4m7!3m6!1s0x479ea2ab0cfe0a61:0xbde655bbb1f58055!8m2!3d48.3671692!4d10.887029!16s%2Fg%2F1tgqhdqz!19sChIJYQr-DKuinkcRVYD1sbtV5r0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:00:56.978Z"}
+{"level":"info","message":"✅ Added: Zahnärzte am Diako Augsburg - Schneid & Kollegen","timestamp":"2026-02-24T07:00:58.175Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.zahnaerzte-am-diako.de/?utm_source=maps...","timestamp":"2026-02-24T07:00:58.176Z"}
+{"level":"info","message":"📧 Found 1 emails for Zahnärzte am Diako Augsburg - Schneid & Kollegen","timestamp":"2026-02-24T07:01:03.867Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dr.+Natasa+Asta/data=!4m7!3m6!1s0x479ebd510780a0df:0xc63b7dd39af8d5d3!8m2!3d48.3700322!4d10.8960227!16s%2Fg%2F1td08ydk!19sChIJ36CAB1G9nkcR09X4mtN9O8Y?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:01:03.873Z"}
+{"level":"info","message":"✅ Added: Dr. Natasa Asta","timestamp":"2026-02-24T07:01:05.088Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.dr-asta.de/...","timestamp":"2026-02-24T07:01:05.091Z"}
+{"level":"info","message":"📧 Found 1 emails for Dr. Natasa Asta","timestamp":"2026-02-24T07:01:11.279Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dr.med.dent.+Stefan+Meyer/data=!4m7!3m6!1s0x479ebd57cee817c7:0xbef8f3032bc0f041!8m2!3d48.3705787!4d10.9047193!16s%2Fg%2F1td57m1p!19sChIJxxfozle9nkcRQfDAKwPz-L4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:01:11.287Z"}
+{"level":"info","message":"✅ Added: Dr.med.dent. Stefan Meyer","timestamp":"2026-02-24T07:01:12.475Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.za-meyer.de/...","timestamp":"2026-02-24T07:01:12.476Z"}
+{"level":"info","message":"📧 Found 1 emails for Dr.med.dent. Stefan Meyer","timestamp":"2026-02-24T07:01:20.396Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahnarztpraxis+Dr.+Sciuk+%26+Kollegen/data=!4m7!3m6!1s0x479ebd4dd9d585eb:0xb5e4dc357b4c9224!8m2!3d48.3684669!4d10.8896228!16s%2Fg%2F1tfd1d44!19sChIJ64XV2U29nkcRJJJMezXc5LU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:01:20.404Z"}
+{"level":"info","message":"✅ Added: Zahnarztpraxis Dr. Sciuk & Kollegen","timestamp":"2026-02-24T07:01:21.873Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.zahnarzt-sciuk.de/...","timestamp":"2026-02-24T07:01:21.875Z"}
+{"level":"info","message":"📧 Found 2 emails for Zahnarztpraxis Dr. Sciuk & Kollegen","timestamp":"2026-02-24T07:01:28.183Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Dr.med.dent.+Georg+Finger/data=!4m7!3m6!1s0x479ea2ad2f764e91:0xbda0c7e4c72bc961!8m2!3d48.3626939!4d10.8925735!16s%2Fg%2F1tgpm03v!19sChIJkU52L62inkcRYckrx-THoL0?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:01:28.190Z"}
+{"level":"info","message":"✅ Added: Dr.med.dent. Georg Finger","timestamp":"2026-02-24T07:01:29.473Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.zahnersatz-augsburg.de/...","timestamp":"2026-02-24T07:01:29.474Z"}
+{"level":"info","message":"📧 Found 1 emails for Dr.med.dent. Georg Finger","timestamp":"2026-02-24T07:01:37.174Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahn%C3%A4rzte+am+Perlach,+Dr.+Leonhardt+%26+Kollegen/data=!4m7!3m6!1s0x479ebd51374be831:0x1cd4f745baf0a943!8m2!3d48.3694953!4d10.8984565!16s%2Fg%2F1w4vhxxp!19sChIJMehLN1G9nkcRQ6nwukX31Bw?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:01:37.180Z"}
+{"level":"info","message":"✅ Added: Zahnärzte am Perlach, Dr. Leonhardt & Kollegen","timestamp":"2026-02-24T07:01:38.439Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.zahnaerzte-am-perlach.de/...","timestamp":"2026-02-24T07:01:38.439Z"}
+{"level":"info","message":"📧 Found 2 emails for Zahnärzte am Perlach, Dr. Leonhardt & Kollegen","timestamp":"2026-02-24T07:01:44.799Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Ganzheitliche+Zahnmedizin+%26+Implantologie+Dr.+Tatiana+Klauser/data=!4m7!3m6!1s0x479e98748c68e8dd:0x957c05abe425ffcf!8m2!3d48.3404137!4d10.8993132!16s%2Fg%2F11clytq9kh!19sChIJ3ehojHSYnkcRz_8l5KsFfJU?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:01:44.805Z"}
+{"level":"info","message":"✅ Added: Ganzheitliche Zahnmedizin & Implantologie Dr. Tatiana Klauser","timestamp":"2026-02-24T07:01:46.252Z"}
+{"level":"info","message":"🔍 Deep crawling: http://www.zahnarzt-augsburg-sued.de/...","timestamp":"2026-02-24T07:01:46.253Z"}
+{"level":"info","message":"📧 Found 1 emails for Ganzheitliche Zahnmedizin & Implantologie Dr. Tatiana Klauser","timestamp":"2026-02-24T07:01:54.054Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Die+Zahn%C3%A4rzte+am+Rathausplatz+Augsburg:+Hartlehnert+und+Schudra/data=!4m7!3m6!1s0x479ebd513f14c937:0x3e345f7d8d1c19d1!8m2!3d48.3691634!4d10.8973432!16s%2Fg%2F1vp6z5bx!19sChIJN8kUP1G9nkcR0RkcjX1fND4?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:01:54.061Z"}
+{"level":"info","message":"✅ Added: Die Zahnärzte am Rathausplatz Augsburg: Hartlehnert und Schudra","timestamp":"2026-02-24T07:01:55.491Z"}
+{"level":"info","message":"🔍 Deep crawling: http://die-zahnaerzte-am-rathausplatz.de/...","timestamp":"2026-02-24T07:01:55.497Z"}
+{"level":"info","message":"📧 Found 1 emails for Die Zahnärzte am Rathausplatz Augsburg: Hartlehnert und Schudra","timestamp":"2026-02-24T07:02:02.435Z"}
+{"level":"info","message":"👉 Processing: https://www.google.com/maps/place/Zahnarzt+Augsburg+%7C+Praxisklinik+f%C3%BCr+Zahnmedizin+Alte+Schmiede/data=!4m7!3m6!1s0x479e97f8415e0fa7:0x71b811c90913eaf0!8m2!3d48.3630401!4d10.913781!16s%2Fg%2F11b5yr5gsc!19sChIJpw9eQfiXnkcR8OoTCckRuHE?authuser=0&hl=en&rclk=1","timestamp":"2026-02-24T07:02:02.461Z"}
+{"level":"info","message":"✅ Added: Zahnarzt Augsburg | Praxisklinik für Zahnmedizin Alte Schmiede","timestamp":"2026-02-24T07:02:03.686Z"}
+{"level":"info","message":"🔍 Deep crawling: https://www.praxisklinik-alteschmiede.de/...","timestamp":"2026-02-24T07:02:03.687Z"}
+{"level":"info","message":"📧 Found 2 emails for Zahnarzt Augsburg | Praxisklinik für Zahnmedizin Alte Schmiede","timestamp":"2026-02-24T07:02:10.768Z"}
+{"level":"info","message":"🏁 Job b0942c14-bafd-413c-83d0-a3aac4ebd3ba Completed. Added: 20, Skipped: 0","timestamp":"2026-02-24T07:02:10.793Z"}

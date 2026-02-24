@@ -1061,3 +1061,60 @@
 {"level":"info","message":"👷 Processing: Belgian Brasserie Henri (ID: 177772bf-cec4-4694-88d6-981102f0852a) - URL: http://www.belgasorozo.com/","timestamp":"2026-02-23T10:09:05.411Z"}
 {"level":"info","message":"✅ Found 1 emails for Belgian Brasserie Henri: belgahenri@gmail.com","timestamp":"2026-02-23T10:09:52.202Z"}
 {"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-23T10:09:52.225Z"}
+{"level":"info","message":"🚀 Starting Worker: worker-bd68a885","timestamp":"2026-02-24T06:57:42.389Z"}
+{"level":"info","message":"🔌 Connected to Database","timestamp":"2026-02-24T06:57:42.453Z"}
+{"level":"info","message":"🌐 Stealth Browser initialized (Headless)","timestamp":"2026-02-24T06:57:47.155Z"}
+{"level":"info","message":"👷 Processing: Zahnarzt Augsburg - Dental21 (ID: 7382a284-409a-4750-938d-1a2b3c343609) - URL: https://www.dental21-augsburg.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google","timestamp":"2026-02-24T06:59:22.394Z"}
+{"level":"info","message":"🤷 No emails found for Zahnarzt Augsburg - Dental21","timestamp":"2026-02-24T06:59:34.395Z"}
+{"level":"info","message":"📊 Job 1/50 processed.","timestamp":"2026-02-24T06:59:34.502Z"}
+{"level":"info","message":"👷 Processing: AllDent Zahnzentrum Augsburg (ID: d1c468b2-feb6-40f3-96e5-c6e0887e3d85) - URL: https://www.alldent-zahnzentrum-augsburg.de/","timestamp":"2026-02-24T06:59:34.509Z"}
+{"level":"info","message":"🤷 No emails found for AllDent Zahnzentrum Augsburg","timestamp":"2026-02-24T06:59:44.556Z"}
+{"level":"info","message":"📊 Job 2/50 processed.","timestamp":"2026-02-24T06:59:44.571Z"}
+{"level":"info","message":"👷 Processing: Zahnarzt Augsburg - Dein Dental (ID: 7f1133f2-1af3-4cd7-9c71-568a764f4bd9) - URL: https://dein-dental-augsburg.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing","timestamp":"2026-02-24T06:59:44.576Z"}
+{"level":"info","message":"✅ Found 2 emails for Zahnarzt Augsburg - Dein Dental: praxis-augsburg@dein-dental.de, %20praxis-augsburg@dein-dental.de","timestamp":"2026-02-24T06:59:55.588Z"}
+{"level":"info","message":"📊 Job 3/50 processed.","timestamp":"2026-02-24T06:59:55.611Z"}
+{"level":"info","message":"👷 Processing: Zahnarztpraxis St. Sofia | Zahnarzt Augsburg (ID: 1d2faca3-96be-4ff7-8d01-2b68d676f3cd) - URL: https://www.zahnarztpraxis-st-sofia.de/?utm_source=gbp","timestamp":"2026-02-24T06:59:55.616Z"}
+{"level":"info","message":"🤷 No emails found for Zahnarztpraxis St. Sofia | Zahnarzt Augsburg","timestamp":"2026-02-24T07:00:02.157Z"}
+{"level":"info","message":"📊 Job 4/50 processed.","timestamp":"2026-02-24T07:00:02.185Z"}
+{"level":"info","message":"👷 Processing: Zahnarztpraxis am Zeugplatz - Zahnarzt Augsburg (ID: 511deb36-5f69-4b4e-bd7c-6ef62ab95b47) - URL: https://www.zahnarztpraxis-zeugplatz.de/?utm_source=gmb&utm_medium=organic","timestamp":"2026-02-24T07:00:07.202Z"}
+{"level":"info","message":"✅ Found 1 emails for Zahnarztpraxis am Zeugplatz - Zahnarzt Augsburg: info@zahnarztpraxis-zeugplatz.de","timestamp":"2026-02-24T07:00:18.225Z"}
+{"level":"info","message":"📊 Job 5/50 processed.","timestamp":"2026-02-24T07:00:18.253Z"}
+{"level":"info","message":"👷 Processing: team Dentalis - Center for Innovative Dentistry (ID: c76b5ba6-1e9b-4ac9-9465-0e86c38dfecb) - URL: https://team-dentalis.de/","timestamp":"2026-02-24T07:00:18.263Z"}
+{"level":"info","message":"✅ Found 1 emails for team Dentalis - Center for Innovative Dentistry: info@team-dentalis.de","timestamp":"2026-02-24T07:00:29.772Z"}
+{"level":"info","message":"📊 Job 6/50 processed.","timestamp":"2026-02-24T07:00:29.795Z"}
+{"level":"info","message":"👷 Processing: Zahnärzte am Königsplatz - Spezialist für Implantologie und Ästhetik (ID: 41d8daf1-08a4-45c9-8a07-6b99efa1687c) - URL: https://zahnaerzte-koenigsplatz.de/","timestamp":"2026-02-24T07:00:29.804Z"}
+{"level":"info","message":"✅ Found 2 emails for Zahnärzte am Königsplatz - Spezialist für Implantologie und Ästhetik: info@zahnaerzteamkoenigsplatz.de, info@zahnaerzte-koenigsplatz.de","timestamp":"2026-02-24T07:00:38.050Z"}
+{"level":"info","message":"📊 Job 7/50 processed.","timestamp":"2026-02-24T07:00:38.079Z"}
+{"level":"info","message":"👷 Processing: ZAHNMEDIZIN am Königsplatz (ID: caf5f003-c433-42b1-b5f9-9d6af638c9ff) - URL: https://aux-dent.de/","timestamp":"2026-02-24T07:00:38.083Z"}
+{"level":"info","message":"✅ Found 3 emails for ZAHNMEDIZIN am Königsplatz: info@aux-dent.de, glichkeitenkontaktinfo@aux-dent.de, 471288info@aux-dent.deleistungenimplantation","timestamp":"2026-02-24T07:00:47.383Z"}
+{"level":"info","message":"📊 Job 8/50 processed.","timestamp":"2026-02-24T07:00:47.404Z"}
+{"level":"info","message":"👷 Processing: Dental practice Renato Illes (ID: 63860367-335c-469c-9929-f9376846ac3c) - URL: https://www.zahnarzt-augsburg-oberhausen.de/","timestamp":"2026-02-24T07:00:47.409Z"}
+{"level":"info","message":"✅ Found 2 emails for Dental practice Renato Illes: renato.illes@zahnarzt.de, 18info@zahnarzt-illes.deseitenpraxisteamleistungenaktuelleskontaktimpressumdatenschutzcookie","timestamp":"2026-02-24T07:00:54.699Z"}
+{"level":"info","message":"📊 Job 9/50 processed.","timestamp":"2026-02-24T07:00:54.724Z"}
+{"level":"info","message":"👷 Processing: STUDIO DENTICS Zahnarzt Augsburg-Hochzoll - Ioana Vasu (ID: e5b70d18-df06-4a3d-8535-768f5baa764a) - URL: https://www.studio-dentics.de/","timestamp":"2026-02-24T07:00:54.729Z"}
+{"level":"info","message":"✅ Found 2 emails for STUDIO DENTICS Zahnarzt Augsburg-Hochzoll - Ioana Vasu: empfang@studio-dentics.de, 663838empfang@studio-dentics.destudiodenticsdatenschutzimpressumtermin","timestamp":"2026-02-24T07:01:02.970Z"}
+{"level":"info","message":"📊 Job 10/50 processed.","timestamp":"2026-02-24T07:01:02.992Z"}
+{"level":"info","message":"👷 Processing: Zahnärzte am Diako Augsburg - Schneid & Kollegen (ID: 8e7f1ed3-7661-4616-9718-8d2525098d96) - URL: https://www.zahnaerzte-am-diako.de/?utm_source=maps","timestamp":"2026-02-24T07:01:02.998Z"}
+{"level":"info","message":"✅ Found 1 emails for Zahnärzte am Diako Augsburg - Schneid & Kollegen: info@dres-schneid.de","timestamp":"2026-02-24T07:01:13.366Z"}
+{"level":"info","message":"📊 Job 11/50 processed.","timestamp":"2026-02-24T07:01:13.401Z"}
+{"level":"info","message":"👷 Processing: Dr.med.dent. Stefan Meyer (ID: d5e060f9-94c1-4b64-b3c9-8481f8add36b) - URL: http://www.za-meyer.de/","timestamp":"2026-02-24T07:01:13.408Z"}
+{"level":"info","message":"✅ Found 1 emails for Dr.med.dent. Stefan Meyer: praxis@za-meyer.desprechzeiten","timestamp":"2026-02-24T07:01:23.713Z"}
+{"level":"info","message":"📊 Job 12/50 processed.","timestamp":"2026-02-24T07:01:23.738Z"}
+{"level":"info","message":"👷 Processing: Zahnarztpraxis Dr. Sciuk & Kollegen (ID: 81d131dc-e2ad-44ef-9ef0-4c780f041b35) - URL: http://www.zahnarzt-sciuk.de/","timestamp":"2026-02-24T07:01:23.746Z"}
+{"level":"info","message":"✅ Found 2 emails for Zahnarztpraxis Dr. Sciuk & Kollegen: 30710info@zahnarzt-sciuk.dewww.notdienst-zahn.deliebe, info@zahnarzt-sciuk.denotdienst","timestamp":"2026-02-24T07:01:29.203Z"}
+{"level":"info","message":"📊 Job 13/50 processed.","timestamp":"2026-02-24T07:01:29.231Z"}
+{"level":"info","message":"👷 Processing: Dr.med.dent. Georg Finger (ID: cd6dc713-d24a-4fc6-afb0-275aad361d4a) - URL: http://www.zahnersatz-augsburg.de/","timestamp":"2026-02-24T07:01:34.249Z"}
+{"level":"info","message":"✅ Found 1 emails for Dr.med.dent. Georg Finger: info@zahnersatz-augsburg.de","timestamp":"2026-02-24T07:01:43.205Z"}
+{"level":"info","message":"📊 Job 14/50 processed.","timestamp":"2026-02-24T07:01:43.228Z"}
+{"level":"info","message":"👷 Processing: Zahnärzte am Perlach, Dr. Leonhardt & Kollegen (ID: 4c6078ba-3f3d-4b1e-9a6b-14fe969576c0) - URL: https://www.zahnaerzte-am-perlach.de/","timestamp":"2026-02-24T07:01:43.233Z"}
+{"level":"info","message":"✅ Found 2 emails for Zahnärzte am Perlach, Dr. Leonhardt & Kollegen: info@zahnaerzte-am-perlach.de, info@zahnaerzte-am-perlach.de?subject=neuanmeldung","timestamp":"2026-02-24T07:01:53.636Z"}
+{"level":"info","message":"📊 Job 15/50 processed.","timestamp":"2026-02-24T07:01:53.659Z"}
+{"level":"info","message":"👷 Processing: Ganzheitliche Zahnmedizin & Implantologie Dr. Tatiana Klauser (ID: b7671d96-48b8-4a8a-b086-4dc0ca678c2b) - URL: http://www.zahnarzt-augsburg-sued.de/","timestamp":"2026-02-24T07:01:53.664Z"}
+{"level":"info","message":"✅ Found 1 emails for Ganzheitliche Zahnmedizin & Implantologie Dr. Tatiana Klauser: info@zahnarzt-klauser.de","timestamp":"2026-02-24T07:02:01.579Z"}
+{"level":"info","message":"📊 Job 16/50 processed.","timestamp":"2026-02-24T07:02:01.600Z"}
+{"level":"info","message":"👷 Processing: Die Zahnärzte am Rathausplatz Augsburg: Hartlehnert und Schudra (ID: 2aa9b01f-bd32-49e4-a3d4-d443101aa44b) - URL: http://die-zahnaerzte-am-rathausplatz.de/","timestamp":"2026-02-24T07:02:01.605Z"}
+{"level":"info","message":"✅ Found 1 emails for Die Zahnärzte am Rathausplatz Augsburg: Hartlehnert und Schudra: kontakt@die-zahnaerzte-am-rathausplatz.de","timestamp":"2026-02-24T07:02:10.076Z"}
+{"level":"info","message":"📊 Job 17/50 processed.","timestamp":"2026-02-24T07:02:10.138Z"}
+{"level":"info","message":"👷 Processing: Zahnarzt Augsburg | Praxisklinik für Zahnmedizin Alte Schmiede (ID: d8b9aea4-d303-4e38-bd94-3248cd0a3534) - URL: https://www.praxisklinik-alteschmiede.de/","timestamp":"2026-02-24T07:02:10.153Z"}
+{"level":"info","message":"✅ Found 2 emails for Zahnarzt Augsburg | Praxisklinik für Zahnmedizin Alte Schmiede: praxis-schneider@pkas.de, praxis-drechsler@pkas.de","timestamp":"2026-02-24T07:02:20.064Z"}
+{"level":"info","message":"📊 Job 18/50 processed.","timestamp":"2026-02-24T07:02:20.100Z"}
