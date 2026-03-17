@@ -17,7 +17,7 @@ processJob(taskId)
            └─ FOR EACH link (sequential):
               ├─ extractDetails(link)        ← Puppeteer page navigation
               ├─ createCompanyIfNotExists()   ← Prisma findFirst + create
-              ├─ scrapeEmailsFromWebsite()    ← opens new page, crawls ≤3 URLs
+              ├─ extractEmailsFromWebsite()   ← opens new page, crawls ≤3 URLs
               ├─ verifyEmail() × N            ← DNS MX lookup (Promise.all)
               ├─ updateCompanyEmails()        ← Prisma update + createMany
               └─ company.update(COMPLETED)

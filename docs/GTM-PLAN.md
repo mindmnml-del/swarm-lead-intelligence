@@ -42,8 +42,8 @@ Niches selected for: data availability on Google Maps, buyer willingness-to-pay 
 
 ### Niche Comparison
 
-| Niche             | Market Size | Avg. Deal Value (for buyer)  | Data Scarcity on Apollo | Collection Difficulty |
-| ----------------- | ----------- | ---------------------------- | ----------------------- | ----------------- |
+| Niche             | Market Size | Avg. Deal Value (for buyer)  | Data Scarcity on Apollo | Extraction Difficulty |
+| ----------------- | ----------- | ---------------------------- | ----------------------- | --------------------- |
 | **MedSpas**       | ★★★★☆       | ★★★★★ ($3K-10K/mo retainers) | ★★★★★ (very scarce)     | Easy              |
 | **Home Services** | ★★★★★       | ★★★☆☆ ($500-2K/mo)           | ★★★★☆                   | Easy              |
 | **Dental**        | ★★★★☆       | ★★★★☆ ($2K-5K/mo retainers)  | ★★★☆☆                   | Easy              |
@@ -70,7 +70,7 @@ Map our existing database fields to what buyers expect. All columns below are **
 | 12  | `verification_status` | `Contact.verificationStatus` | `VALID`, `INVALID`, `UNKNOWN`    |
 | 13  | `niche`               | `ScrapeJob.query`            | 🆕 Derived from the search query |
 | 14  | `state`               | `Company.address`            | 🆕 Parsed from address string    |
-| 15  | `zip_code`            | `ScrapeTask.zipCode`         | Zip code of the collection       |
+| 15  | `zip_code`            | `ScrapeTask.zipCode`         | Zip code of the data extraction  |
 | 16  | `collected_date`      | `Company.emailScrapedAt`     | Data freshness timestamp         |
 
 > **Key Differentiator:** Columns 9-12 (AI Confidence, Email Type, Source, Verification) do not exist in Apollo/ZoomInfo exports. This is our unique value proposition — **AI-enriched data**.
@@ -120,9 +120,9 @@ Based on market research: Apollo charges ~$0.05/email credit, ZoomInfo ~$3+/lead
 
 ## 5. Launch Checklist
 
-- [ ] Run full US data collection for **MedSpas** (all zip codes) — ~35K leads
-- [ ] Run full US data collection for **HVAC** (top 50 metros first) — ~25K leads
-- [ ] Run full US data collection for **Dental** (all zip codes) — ~40K leads
+- [ ] Run full US data extraction for **MedSpas** (all zip codes) — ~35K leads
+- [ ] Run full US data extraction for **HVAC** (top 50 metros first) — ~25K leads
+- [ ] Run full US data extraction for **Dental** (all zip codes) — ~40K leads
 - [ ] Build CSV export script (query DB → format per schema above → output `.csv`)
 - [ ] Create Gumroad product pages (3 niches × 4 tiers = 12 listings)
 - [ ] Create Whop membership page (Agency + Unlimited tiers)
